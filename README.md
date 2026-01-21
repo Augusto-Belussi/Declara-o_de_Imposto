@@ -55,18 +55,19 @@ Tela destinada ao preenchimento das informações pessoais do contribuinte.
 
 ### 🏦 Informes de Rendimento Bancário
 Área para registro dos valores informados pelas instituições financeiras.
+
 ![Informes de Rendimento](imagens/Infor_IR.png)
 
 ---
 
 ### 📊 Extrato Bancário / Informe de Rendimentos
 Tela para controle detalhado de entradas financeiras, como holerites e outros rendimentos.
+
 ![Extrato Bancário](imagens/extrato_IR.png)
 
 ---
 
 ### 📁 Menu de Navegação
-
 Menu lateral que permite acesso rápido às principais seções do sistema.
 
 ![Menu do Sistema](imagens/menu_IR.png)
