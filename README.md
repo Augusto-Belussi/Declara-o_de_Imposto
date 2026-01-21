@@ -49,6 +49,7 @@ as telas e preencher as informações de forma organizada.
 
 ### 🧑 Dados do Titular
 Tela destinada ao preenchimento das informações pessoais do contribuinte.
+
 ![Dados do Titular](imagens/titular_IR.png)
 
 ---
