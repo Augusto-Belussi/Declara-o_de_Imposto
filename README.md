@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="imagens/logo_primeIR.png" alt="Prime IR Logo" width="180"/>
+</p>
+
+
 # 📄 Prime IR — Sistema de Declaração de Imposto de Renda em Excel
 
 Projeto **acadêmico** desenvolvido em **Microsoft Excel**, com foco na
