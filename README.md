@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagens/logo_primeIR.png" alt="Prime IR Logo" width="420"/>
+  <img src="imagens/logo_primeIR.png" alt="Prime IR Logo" width="500"/>
 </p>
 
 
